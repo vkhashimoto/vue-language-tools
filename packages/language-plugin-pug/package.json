@@ -18,5 +18,6 @@
 	"dependencies": {
 		"@volar/source-map": "2.2.0-alpha.9",
 		"volar-service-pug": "0.0.38"
-	}
+	},
+	"gitHead": "1b14e96d20dbc5d12fe447ec7ebf818a54633a31"
 }

@@ -42,5 +42,6 @@
 		"@types/path-browserify": "latest",
 		"@volar/kit": "2.2.0-alpha.9",
 		"vscode-languageserver-protocol": "^3.17.5"
-	}
+	},
+	"gitHead": "1b14e96d20dbc5d12fe447ec7ebf818a54633a31"
 }

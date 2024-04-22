@@ -10,5 +10,6 @@
 		"type": "git",
 		"url": "https://github.com/vuejs/language-tools.git",
 		"directory": "packages/component-type-helpers"
-	}
+	},
+	"gitHead": "1b14e96d20dbc5d12fe447ec7ebf818a54633a31"
 }
